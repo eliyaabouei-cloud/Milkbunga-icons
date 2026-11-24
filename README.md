@@ -1,2 +1,2 @@
-Milkbunga icons For Unsupported iOS Versions
+Milkbunga Icons For Unsupported iOS Versions
 Download It From Releases
